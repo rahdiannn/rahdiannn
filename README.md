@@ -2,10 +2,10 @@ Im glads to know how its work, its like amazing to have any repository just beca
 
 
 - 👋 Hi, I’m @rahdiannn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested JS,HTML,phyton, stackflow
+- 🌱 I’m currently learning phyton
+- 💞️ I’m looking to collaborate on //  not for now
+- 📫 How to reach me. maybe i will put my contacts number or social modia, whenever
 
 <!---
 rahdiannn/rahdiannn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
